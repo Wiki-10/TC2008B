@@ -1,5 +1,9 @@
 # Modelación de sistemas multiagentes
 
+Developed an IOS application in teams using SwiftUI for a local Food Bank in Guadalajara, MX.
+• Made a feed system so that the users can find out the latest news related to the food bank.
+• Worked on the UI/UX of the application using SwiftUI.
+
 ## Para poder correr los archivos de python
 
 1. Crear un ambiente local
